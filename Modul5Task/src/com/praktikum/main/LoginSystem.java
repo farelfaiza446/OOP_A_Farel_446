@@ -12,7 +12,6 @@ public class LoginSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Default Users
         userList.add(new Admin("admin", "admin"));
         userList.add(new Student("Farel", "2024446"));
         userList.add(new Student("Rifan", "2024324"));

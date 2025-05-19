@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0eb7fb6-9522-4192-82f4-26e28587dedb" name="Changes" comment="Codelab 1 OOP_A" />
+    <list default="true" id="a0eb7fb6-9522-4192-82f4-26e28587dedb" name="Changes" comment="Codelab 1 OOP_A">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +74,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OOP_A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OOP_A" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -93,6 +106,8 @@
       <workItem from="1740401729271" duration="347000" />
       <workItem from="1740553962311" duration="1996000" />
       <workItem from="1740573768526" duration="971000" />
+      <workItem from="1740966034012" duration="2490000" />
+      <workItem from="1741576943551" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="Codelab 1 OOP_A">
       <option name="closed" value="true" />
